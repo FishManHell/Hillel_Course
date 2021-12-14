@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.wrapper {
+margin: 0 auto;
+padding:0;
+width: 40%;
+height: auto;
+background-color:white;
+}
+
+.container{
+width: 90%;
+margin:0 auto;
+padding-bottom: 30px;
+}
+
+.header {
+text-align: left;
+padding-top:15px;
+}
+
+.title {
+width: 100%;
+margin: 0;
+font-size:40px;
+font-weight:500;
+margin-bottom:10px;
+}
+
+.description {
+font-size:18px;
+font-style: italic;
+font-weight: 400;
+}
+
+label.required:after{
+    color: red;
+    content: " *";
+}
+
+span.required:after{
+    color: red;
+    content: " *";
+}
+
+.outline-link, 
+.person-info, 
+.like-animals {
+  font-weight: 500;
+}
+
+.outline-forms {
+  padding: 5px 10px 20px 10px;
+  margin: 25px 0px 0px 0px;
+}
+
+.outline-forms {
+  display:flex;
+}
+input,
+.textarea,
+.select-gender {
+  outline: none;
+}
+
+.form-content {
+  position: relative;
+  margin-left: 10px;
+  padding-top: 20px;
+}
+
+.forms-control,
+.select-gender {
+    width: 40%;
+    height: 25px;
+    border-radius: 1px;
+    border: 1px solid #ACACAC;
+    position: absolute;
+    left: 120px;
+    top: 10px;
+}
+
+.textarea {
+  height: 100px;
+  width: 40%;
+  border-radius: 1px;
+  border: 1px solid #ACACAC;
+  outline: none;
+}
+
+.form-content:last-child {
+  display: flex;
+  padding-top: 15px;
+}
+
+.label-textarea {
+  width: 120px;
+  line-height: 20px;
+}
+
+.span-select {
+  line-height: 25px;
+}
+
+.info-block {
+  padding-top: 10px;
+  margin-left: 5px;
+}
+
+.info-block:last-child {
+  padding: 20px 0px 10px 0px;
+}
+
+.label-checkbox {
+  display: inline-block;
+  width: 110px;
+  padding-left: 5px;
+}
+
+.contact-submit {
+  padding: 10px;
+  border: 1px solid #ABABAB;
+  margin-top: 20px;
+}
