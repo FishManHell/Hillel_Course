@@ -2,7 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="479e459a-5bca-47e1-aa6c-b804522f35e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FrontEnd_Pro/test.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/fontello-codes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/fontello-embedded.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/fontello-ie7-codes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/fontello-ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/pe-icon-7-stroke.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/font/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/font/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/font/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/font/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/font/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-CondBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-CondLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-CondLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Open_Sans/OpenSans-SemiboldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/fonts/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/Rectangle-57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/Rectangle-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/client_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/client_01.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/client_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/client_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/client_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/escalator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/grid1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/grid2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/grid3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/map-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/member2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/member3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/member4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/img/slide4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/call.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/compass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/global.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/headphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/lock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/safe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd_Basic/final_task/svg/settings.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +103,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My portfolio" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,6 +129,7 @@
       <workItem from="1639474006363" duration="48000" />
       <workItem from="1639474321764" duration="20000" />
       <workItem from="1639474449687" duration="71000" />
+      <workItem from="1639474529626" duration="329000" />
     </task>
     <servers />
   </component>
